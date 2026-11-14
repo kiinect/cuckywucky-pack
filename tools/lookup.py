@@ -34,19 +34,9 @@ def run():
         fobj = next(f for f in v['files'] if f['hashes'].get('sha512') == h)
         side = 'both' if p['client_side'] != 'unsupported' and p['server_side'] != 'unsupported' else ('client' if p['server_side'] == 'unsupported' else 'server')
         name = p['title'].replace("'", "")
-        toml = f"""name = '{name}'
-filename = '{fobj['filename']}'
-side = '{side}'
-
-[download]
-url = '{fobj['url']}'
-hash-format = 'sha512'
-hash = '{h}'
-
-[update.modrinth]
-mod-id = '{p['id']}'
-version = '{v['id']}'
-"""
+        q = lambda x: '"' + str(x).replace('\\', '\\\\').replace('"', '\\"') + '"'
+        toml = (f"name = {q(p['title'])}\nfilename = {q(fobj['filename'])}\nside = {q(side)}\n\n[download]\n"
+                f"url = {q(fobj['url'])}\nhash-format = 'sha512'\nhash = {q(h)}\n\n[update.modrinth]\nmod-id = {q(p['id'])}\nversion = {q(v['id'])}\n")
         open(f"{OUT}/mods/{p['slug']}.pw.toml", 'w').write(toml)
     miss = [os.path.basename(f) for h, f in hashes.items() if h not in found]
     print(f'{len(found)} of {len(files)} matched on Modrinth')

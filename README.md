@@ -12,8 +12,8 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 
 ## Mods (128)
 
-- [NTGL] NukaTeams Gun Lib
-- Aces Spell Utils
+- [NTGL] NukaTeam
+- Ace
 - AppleSkin
 - Aquaculture 2
 - Aquaculture Delight
@@ -25,7 +25,7 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 - Better Archeology
 - Better Combat
 - Bookshelf
-- Brewin And Chewin
+- Brewin
 - Cataclysm: Spellbooks
 - Chapters
 - Citadel
@@ -77,8 +77,8 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 - Essential Mod
 - Expanded Delight
 - Explore Ruins: The Aether - Dungeons & Structures
-- Farmers Delight
-- Farmers Delight: Extended
+- Farmer
+- Farmer
 - Fast Item Frames
 - FastFurnace
 - FastWorkbench
@@ -88,17 +88,17 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 - Geckolib
 - ImmediatelyFast
 - Iris Shaders
-- Irons Lib
-- Irons Spells n Spellbooks
-- Irons Spells n Spellbooks Dynamic Skill Trees
-- Irons Spells n Spellbooks Restrictions
+- Iron
+- Iron
+- Iron
+- Irons Spells 
 - Jade 🔍
 - JourneyMap
 - Just Enough Items (JEI)
 - Kotlin for Forge
 - Ksyxis
 - KubeJS
-- L_Enders Cataclysm
+- L_Ender
 - Lionfish-API
 - Lithium
 - Lithostitched
@@ -108,20 +108,20 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 - ModernFix
 - Moonlight Lib
 - Mouse Tweaks
-- Mowzies Mobs
+- Mowzie
 - oωo (owo-lib)
 - Particle Core
 - Placebo
 - Player Animation Library
 - playerAnimator
 - Prickle
-- Pufferfishs Attributes
-- Pufferfishs Skills
+- Pufferfish
+- Pufferfish
 - Puzzles Lib
-- Reeses Sodium Options
+- Reese
 - Resourceful Config
 - Rhino
-- Ritchies Projectile Library
+- Ritchie
 - Sable
 - Sable: Mass view (Create Aeronautics)
 - Separate Sable Render Distance (Create Aeronautics Addon)
