@@ -20,7 +20,7 @@ for f in files:
     name = re.search(r"name = ['\"](.+?)['\"]", t).group(1)
     (own if 'releases/download/mods/' in t else other).append(name)
 mc = re.search(r'minecraft = "(.+?)"', pack).group(1); nf = re.search(r'neoforge = "(.+?)"', pack).group(1)
-extra = ['chromeware', 'grandsigil', 'let_it_walk', 'onepiececombat', 'walker-pistons']
+extra = ['chromeware', 'grandsigil', 'let_it_walk', 'walker-pistons']
 open(ROOT + '/README.md', 'w').write(f"# cuckywucky pack\n\nMinecraft {mc} - NeoForge {nf}\n\n## Custom mods\n\n" + ''.join(f'- {n}\n' for n in sorted(own, key=str.lower))
     + f"\n## Mods ({len(other)})\n\n" + ''.join(f'- {n}\n' for n in sorted(other, key=str.lower))
     + "\n## Not hosted here\n\n" + ''.join(f'- {n}\n' for n in extra))

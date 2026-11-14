@@ -7,6 +7,7 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 - bloodhound
 - compatible-progression
 - mech-actors
+- onepiececombat
 - walking-cannons
 
 ## Mods (128)
@@ -145,5 +146,4 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 - chromeware
 - grandsigil
 - let_it_walk
-- onepiececombat
 - walker-pistons

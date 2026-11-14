@@ -10,7 +10,7 @@ Auto-updating modpack for Prism Launcher (Minecraft 1.21.1, NeoForge 21.1.264). 
    "$INST_JAVA" -jar packwiz-installer-bootstrap.jar -g -s client https://raw.githubusercontent.com/kiinect/cuckywucky-pack/main/pack.toml
    ```
 4. Launch. The first run downloads everything (~500 MB, once). After that each launch only fetches changed mods.
-5. Five mods are not redistributed here; the pack owner sends them once: `chromeware`, `grandsigil`, `let_it_walk`, `onepiececombat`, `walker-pistons` (put them in `mods/`).
+5. Five mods are not redistributed here; the pack owner sends them once: `chromeware`, `grandsigil`, `let_it_walk`, `walker-pistons` (put them in `mods/`).
 
 ## Owner: shipping an update
 - **Own mod changed** (rebuilt jar): `python3 tools/own_jars.py path/to/new.jar && python3 tools/refresh.py && git add -A && git commit -m "update" && git push`
