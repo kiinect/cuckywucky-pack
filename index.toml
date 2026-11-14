@@ -511,6 +511,11 @@ hash = "5b65bd9b34259d69c05bd98078b7518158133799582f5a31457c01a1d7cf68cc"
 metafile = true
 
 [[files]]
+file = "mods/onepiececombat.pw.toml"
+hash = "e274c32cc183a3df1d1ef78c921a71030751928f89647597cb7b40e734a8f677"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "51616d9cad2558bbf69b7f6798bdad80eae4e952119118b293a30401b636bab6"
 metafile = true
