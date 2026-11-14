@@ -10,7 +10,7 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 - onepiececombat
 - walking-cannons
 
-## Mods (128)
+## Mods (127)
 
 - [NTGL] NukaTeam
 - Ace
@@ -91,7 +91,6 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 - Iron
 - Iron
 - Iron
-- Irons Spells 
 - Jade 🔍
 - JourneyMap
 - Just Enough Items (JEI)

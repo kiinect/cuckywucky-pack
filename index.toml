@@ -406,11 +406,6 @@ hash = "571fa9a1ad038f98901a1f24497a07d782e7954028a3e03ea23378641968b598"
 metafile = true
 
 [[files]]
-file = "mods/irons-spells-n-spellbooks-restricitons.pw.toml"
-hash = "073221960d5d8e47e7d62662d86dc47c2618c564475358b12fb6b6e5b3066ea3"
-metafile = true
-
-[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "76b33ccaea5ee4e949c8c35bf96c13558b74a957770e6c3b18e502bd9e31b4a5"
 metafile = true
