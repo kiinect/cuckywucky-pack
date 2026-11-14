@@ -1,20 +1,149 @@
 # cuckywucky pack
 
-Auto-updating modpack for Prism Launcher (Minecraft 1.21.1, NeoForge 21.1.264). Every launch downloads only the mods that changed.
+Minecraft 1.21.1 - NeoForge 21.1.264
 
-## Friends: one-time setup
-1. Install [Prism Launcher](https://prismlauncher.org) and create an instance: **Minecraft 1.21.1 + NeoForge 21.1.264**.
-2. Download [packwiz-installer-bootstrap.jar](https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest) into the instance's `minecraft` folder (right-click the instance → Folder → Minecraft (`.minecraft`)).
-3. Instance → Edit → Settings → **Custom commands** → tick *Custom commands* and set **Pre-launch command**:
-   ```
-   "$INST_JAVA" -jar packwiz-installer-bootstrap.jar -g -s client https://raw.githubusercontent.com/kiinect/cuckywucky-pack/main/pack.toml
-   ```
-4. Launch. The first run downloads everything (~500 MB, once). After that each launch only fetches changed mods.
-5. Five mods are not redistributed here; the pack owner sends them once: `chromeware`, `grandsigil`, `let_it_walk`, `onepiececombat`, `walker-pistons` (put them in `mods/`).
+## Custom mods
 
-## Owner: shipping an update
-- **Own mod changed** (rebuilt jar): `python3 tools/own_jars.py path/to/new.jar && python3 tools/refresh.py && git add -A && git commit -m "update" && git push`
-- **Modrinth mod added/updated** (in your instance): `python3 tools/lookup.py && python3 tools/refresh.py`, then commit and push.
-- Friends get it next launch. Only the changed jars download.
+- bloodhound
+- compatible-progression
+- mech-actors
+- walking-cannons
 
-`tools/lookup.py` matches the instance's jars to Modrinth by hash. `tools/own_jars.py` uploads our jars to the `mods` release. `tools/refresh.py` rebuilds `index.toml` and `pack.toml`.
+## Mods (128)
+
+- [NTGL] NukaTeams Gun Lib
+- Aces Spell Utils
+- AppleSkin
+- Aquaculture 2
+- Aquaculture Delight
+- Architectury API
+- AzureLib
+- BadOptimizations
+- Balm
+- Better Advanced Tooltips
+- Better Archeology
+- Better Combat
+- Bookshelf
+- Brewin And Chewin
+- Cataclysm: Spellbooks
+- Chapters
+- Citadel
+- Cloth Config API
+- Clumps
+- Continuity
+- Corpse
+- Create
+- Create Aeronautics
+- Create Aeronautics: Compatibility
+- Create Aeronautics: Transmission & Linkage
+- Create Big Cannons
+- Create Confectionery
+- Create Deco
+- Create Jetpack
+- Create Mechanical Spawner
+- Create More Automation
+- Create Nuclear
+- Create Ore Excavation
+- Create Propulsion: Simulated
+- Create Slice & Dice
+- Create: Aeroworks
+- Create: Central Kitchen
+- Create: Connected
+- Create: Copycats+
+- Create: Cyber Goggles
+- Create: Dragons Plus
+- Create: Dynamic Village
+- Create: Electro Energetics
+- Create: Enchantment Industry
+- Create: Gunsmithing
+- Create: Hypertubes
+- Create: More Drill Heads
+- Create: New Age
+- Create: Nowheel
+- Create: Pattern Schematics
+- Create: Power Grid
+- Create: Power Loader
+- Create: Structures Arise
+- Create: Synthetic Pressure
+- Create: Trading floor
+- CreateBetterFps
+- Cultural Delights
+- Curios API
+- Distant Horizons
+- Dungeons and Taverns
+- Enchantment Descriptions
+- Entity Culling
+- Essential Mod
+- Expanded Delight
+- Explore Ruins: The Aether - Dungeons & Structures
+- Farmers Delight
+- Farmers Delight: Extended
+- Fast Item Frames
+- FastFurnace
+- FastWorkbench
+- FerriteCore
+- Forgified Fabric API
+- Fzzy Config
+- Geckolib
+- ImmediatelyFast
+- Iris Shaders
+- Irons Lib
+- Irons Spells n Spellbooks
+- Irons Spells n Spellbooks Dynamic Skill Trees
+- Irons Spells n Spellbooks Restrictions
+- Jade 🔍
+- JourneyMap
+- Just Enough Items (JEI)
+- Kotlin for Forge
+- Ksyxis
+- KubeJS
+- L_Enders Cataclysm
+- Lionfish-API
+- Lithium
+- Lithostitched
+- Lootr
+- Mechanicals Lib
+- MezzConfig
+- ModernFix
+- Moonlight Lib
+- Mouse Tweaks
+- Mowzies Mobs
+- oωo (owo-lib)
+- Particle Core
+- Placebo
+- Player Animation Library
+- playerAnimator
+- Prickle
+- Pufferfishs Attributes
+- Pufferfishs Skills
+- Puzzles Lib
+- Reeses Sodium Options
+- Resourceful Config
+- Rhino
+- Ritchies Projectile Library
+- Sable
+- Sable: Mass view (Create Aeronautics)
+- Separate Sable Render Distance (Create Aeronautics Addon)
+- Simple Voice Chat
+- Simply Swords
+- Simply Tooltips
+- Sinytra Connector
+- Sodium
+- Sodium Extra
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sound Physics Remastered
+- spark
+- Supplementaries
+- Terralith
+- The Aether
+- Waystones
+- Waystones: Sable (Create Aeronautics Addon)
+
+## Not hosted here
+
+- chromeware
+- grandsigil
+- let_it_walk
+- onepiececombat
+- walker-pistons
