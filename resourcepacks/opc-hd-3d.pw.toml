@@ -5,4 +5,4 @@ side = 'client'
 [download]
 url = 'https://github.com/kiinect/cuckywucky-pack/releases/download/mods/OPC-HD-3D.zip'
 hash-format = 'sha512'
-hash = '24e275fb88b827081c76124f00e441b16534e26ac3e6e15f1815a13049d6722b3ad367db695087fbd94b4fe89b801c6fa728f76f7aa23be924d586476ae85b52'
+hash = 'c03bcd806a153e80ac72ff42d208a358a4e34c556151454769197e6d317aa262b49f45c233e19581d0a5cd4bb3f26ff28eb438ec58e82342cafc6b79d9ab195f'
