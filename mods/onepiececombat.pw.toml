@@ -5,4 +5,4 @@ side = 'both'
 [download]
 url = 'https://github.com/kiinect/cuckywucky-pack/releases/download/mods/onepiececombat-1.0.0.jar'
 hash-format = 'sha512'
-hash = 'e8b93c640c0f730e3487cbfb90ca963c7c5945d5cf12c8fad78689511e06f15f149b318995c2811fd6c33181794e5ae1fec1cc8b1ee514110174da643d047483'
+hash = 'f7614c38fbc50cde5998f4901e7fd8c9ce63afe9a2a5b7e600e95c8b46bd3d172f5a5184928bd586e4ab53d6a0ac5bdd9d7442b87397f4c9a46db8074453bba7'
