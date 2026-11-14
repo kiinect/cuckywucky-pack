@@ -660,3 +660,8 @@ file = "mods/waystones.pw.toml"
 hash = "da554966fd63b7dad58314130d4e0d89ad3749a159b7e62bcda9e36f67191c73"
 metafile = true
 
+[[files]]
+file = "resourcepacks/opc-hd-3d.pw.toml"
+hash = "fa4c7d4fd27e44abca867fb781d6bbad412d500899716001f15ead87964f96f3"
+metafile = true
+

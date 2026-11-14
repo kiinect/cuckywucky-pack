@@ -1,0 +1,8 @@
+name = 'OPC-HD-3D'
+filename = 'OPC-HD-3D.zip'
+side = 'client'
+
+[download]
+url = 'https://github.com/kiinect/cuckywucky-pack/releases/download/mods/OPC-HD-3D.zip'
+hash-format = 'sha512'
+hash = '24e275fb88b827081c76124f00e441b16534e26ac3e6e15f1815a13049d6722b3ad367db695087fbd94b4fe89b801c6fa728f76f7aa23be924d586476ae85b52'
