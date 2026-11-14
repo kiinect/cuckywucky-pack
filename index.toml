@@ -66,6 +66,11 @@ hash = "1045bb44434f990b8f474aaf55d99f42db3ef9608799d3630c84cd77725a6458"
 metafile = true
 
 [[files]]
+file = "mods/bloodhound.pw.toml"
+hash = "109e217f3cca3074562e0dfef73abe5eb3148db93b772186a9f8b7e46d952582"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "d83de9783709c57098fa1a3d61e21ecc78fdb598f8ca1c792b7a53ed1ec2015a"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "736d61b40ca41bb3e5d9ea9727d38aab99686d9f9eb587f75165b29b20f29f62"
+metafile = true
+
+[[files]]
+file = "mods/compatible-progression.pw.toml"
+hash = "ccecc7e854b9869448f555ae57ec2945dc99c0bc04b486d68dae0cf96608e6b5"
 metafile = true
 
 [[files]]
@@ -461,6 +471,11 @@ hash = "adc064320d8f54ed96c3a20658444f4c20860907a274964f89d1c4edc708ae12"
 metafile = true
 
 [[files]]
+file = "mods/mech-actors.pw.toml"
+hash = "ea19498038b2d408f3b18e434b86692cd4bf4bdca6e04d703010e4353670efc3"
+metafile = true
+
+[[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "52114b977930b89163bdb5d38c24b8b6e567b61a0e77ca174ef52cb289c1e354"
 metafile = true
@@ -628,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "a334dd61e6bfdd6cde1817d3bb46c78a180afda512f5c79eb5eed80ed6cab7dc"
+metafile = true
+
+[[files]]
+file = "mods/walking-cannons.pw.toml"
+hash = "379ba319aa69ee7a519ac49370bd3f979ea6b54dc4cc79aa527bcdffa387c898"
 metafile = true
 
 [[files]]

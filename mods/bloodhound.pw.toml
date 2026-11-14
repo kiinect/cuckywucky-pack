@@ -1,0 +1,8 @@
+name = 'bloodhound'
+filename = 'bloodhound-0.1.0.jar'
+side = 'both'
+
+[download]
+url = 'https://github.com/kiinect/cuckywucky-pack/releases/download/mods/bloodhound-0.1.0.jar'
+hash-format = 'sha512'
+hash = 'c30771dbc5085f4d2618ff87e0dd220cee9de21b190cae682b0a59f51d729e000393a93267798924b1253d5783f576a2a2ede4e741f2ae4dda24cf3c4a13ee55'

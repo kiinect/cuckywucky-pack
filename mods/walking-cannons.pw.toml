@@ -1,0 +1,8 @@
+name = 'walking-cannons'
+filename = 'walking-cannons-0.18.1.jar'
+side = 'both'
+
+[download]
+url = 'https://github.com/kiinect/cuckywucky-pack/releases/download/mods/walking-cannons-0.18.1.jar'
+hash-format = 'sha512'
+hash = '0d22951e7af064bd691018188de4596be58ea9cdb385ff1f1677f0c2d526bbbd709d444c7c182e660abf97010a017e58d21cbe79b2d8c2e29d85aeea4fb390dc'
