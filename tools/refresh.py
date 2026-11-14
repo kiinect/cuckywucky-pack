@@ -5,7 +5,9 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 sha = lambda b: hashlib.sha256(b).hexdigest()
 
 files = sorted(os.path.relpath(p, ROOT).replace(os.sep, '/') for p in glob.glob(ROOT + '/**/*.pw.toml', recursive=True))
-idx = 'hash-format = "sha256"\n\n' + ''.join(f'[[files]]\nfile = "{f}"\nhash = "{sha(open(os.path.join(ROOT, f), "rb").read())}"\nmetafile = true\n\n' for f in files)
+plain = sorted(os.path.relpath(p, ROOT).replace(os.sep, '/') for p in glob.glob(ROOT + '/kubejs/**/*', recursive=True) if os.path.isfile(p))  # shipped as-is (HD weapon models; a resource pack loses to the mod jar)
+idx = 'hash-format = "sha256"\n\n' + ''.join(f'[[files]]\nfile = "{f}"\nhash = "{sha(open(os.path.join(ROOT, f), "rb").read())}"\nmetafile = true\n\n' for f in files) \
+    + ''.join(f'[[files]]\nfile = "{f}"\nhash = "{sha(open(os.path.join(ROOT, f), "rb").read())}"\n\n' for f in plain)
 open(ROOT + '/index.toml', 'w').write(idx)
 
 pack = open(ROOT + '/pack.toml').read()

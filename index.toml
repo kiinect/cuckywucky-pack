@@ -661,7 +661,226 @@ hash = "da554966fd63b7dad58314130d4e0d89ad3749a159b7e62bcda9e36f67191c73"
 metafile = true
 
 [[files]]
-file = "resourcepacks/opc-hd-3d.pw.toml"
-hash = "6d64696e573de9a7b50780c911982bd2015a7167a2a033aee2ee75fdcb08a3f3"
-metafile = true
+file = "kubejs/assets/onepiececombat/models/item/diamond_grand_sword.json"
+hash = "ac00cad0b2b4a6593dd093e0392cd98d3344e05f8505d38efd852816bf5d2e80"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/diamond_katana.json"
+hash = "18cdb7409af6bbb148b8196efaa56482e319a95f66d7b6b594b8157f9e42da4a"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/diamond_naginata.json"
+hash = "e06570073fbd62b013929fdc8899f6525aae198c56925ad76e71f9e7ac3d3f10"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/diamond_saber.json"
+hash = "dbbb594a90574d20ddfc93fcde250b5c2c602e0370980eda221e7ece74c7d768"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_grand_sword.json"
+hash = "1ee809e315e2301ced1a09ce07ef900b3071a8e77be2191bdab2de337ef3c2ff"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_grand_sword.mtl"
+hash = "6472f8f54054826dcbc206487c98a5c90a50333e01b3544d4d5809656c4f33aa"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_grand_sword.obj"
+hash = "886187091e0dc45db61474bee5dc110ba9a639297934f3fd22b8c5450a0a312a"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_katana.json"
+hash = "fe995bd410e05f1dc7a812ba4e94a0a532f6f95d253251192c2e350c8fb237cb"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_katana.mtl"
+hash = "bf6c18d142fe0db6edf3037d15227261681f6cc16068f079677c0ad3af2ef4d8"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_katana.obj"
+hash = "e9f2469dcc8ca1541488f4ac2724d0410c239b7d049c0ba4058a8d05741fc2fd"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_naginata.json"
+hash = "6cd1631eb6c69e961597426970b5429a9c14c7f0eecd3076fdc59949a7763eae"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_naginata.mtl"
+hash = "7a30411a7f92bbf9f14bc7e6175765e6fcf3476d59bd5e455b8e4f531fd32ebc"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_naginata.obj"
+hash = "c5a513f44fad168f02c6583bcccff287c5386d8d1cfbcbe6d0e306b998f99739"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_saber.json"
+hash = "dd694121e844e96a2e0a590c8f4865d15cb90a2546edb551b8a62a607fd051e1"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_saber.mtl"
+hash = "2cc3462381f0030bd5662b98b77bb406ac53a80b67048ba87745a62811dca19f"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/iron_saber.obj"
+hash = "9084f1f852aca6431173ce2523e008d9a2337bc064a420366b2283c29af2c7c8"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/netherite_grand_sword.json"
+hash = "747a395ad18de9b07e19c5a721dc1f151376819fdb3b090c3c485869c3793da1"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/netherite_katana.json"
+hash = "11939788d5c5b63645c58f7b872602270edf32b82bf54529861c40f633973c0f"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/netherite_naginata.json"
+hash = "eb7de5adadc4f71aefeb6669d1e9552d4dc4802cfa0dc0072de196a19403005d"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/netherite_saber.json"
+hash = "9a436dd0c99de0675435e2bc464a9fd6902ed1a4abd554125bec917d7ae395e7"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/seastone_grand_sword.json"
+hash = "b6098bd263667864ee670e761fdc87308569ccfd593fa258e037464dd8edfd55"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/seastone_katana.json"
+hash = "6fc661626eff5ab82f3493b4b326e9481b9fba3cce56d14df1c1e1715fd058d3"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/seastone_naginata.json"
+hash = "22d0ca14ff64516fa85f1c72f6ec03b14dc54c4b81e6ea68faa24a7be4b1502c"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/seastone_saber.json"
+hash = "ce57b0f310f630da3460a070789bae3ac0d8e794553b3c68cab6c5b1a8aadfd3"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/diamond_grand_sword.json"
+hash = "da96dda8d523c8e1b613a0c1aa96b8e37a2806048d23095e25fecc62ec03a090"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/diamond_katana.json"
+hash = "ae80f4ff5f33ad0128e0ca823749b27b62270a5e40835119c74b5bac96a7abcc"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/diamond_naginata.json"
+hash = "9cc88364fd17410f37ff7c25b30ebd3667fb8de2f786b83114a37163bf7de781"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/diamond_saber.json"
+hash = "b41acacb2a3c2b46efe335b66807a245ebb7afe424c096c9501ac0611478be5e"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/netherite_grand_sword.json"
+hash = "da96dda8d523c8e1b613a0c1aa96b8e37a2806048d23095e25fecc62ec03a090"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/netherite_katana.json"
+hash = "ae80f4ff5f33ad0128e0ca823749b27b62270a5e40835119c74b5bac96a7abcc"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/netherite_naginata.json"
+hash = "9cc88364fd17410f37ff7c25b30ebd3667fb8de2f786b83114a37163bf7de781"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/netherite_saber.json"
+hash = "b41acacb2a3c2b46efe335b66807a245ebb7afe424c096c9501ac0611478be5e"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/seastone_grand_sword.json"
+hash = "669c6a824a0ff62f45fe43c5dbca7070eed1ef3bd391ca229cb0d3642b278c42"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/seastone_katana.json"
+hash = "54989745533fc97efc945becda0cde4e3eaa28492fb97074c663d727b8c0eef0"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/seastone_naginata.json"
+hash = "2cc5f84b05f284c3ea1b516f893ba7445b4ff215c8952f60d1c3c586606d8ff0"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/models/item/supreme/seastone_saber.json"
+hash = "668a35c61156df06aa3ed28960bd094018b4bb8348225a637283212b329ef650"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/black_grand_sword_hd.png"
+hash = "9500c6ce3cef2ac0936798eaab46c1f8662ef4aefac489730c3d31da97a5175a"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/black_katana_hd.png"
+hash = "916e4afeccbe2f385f119158eb03f0d7325dd9b92b563a0a81381ac1f44b119f"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/black_naginata_hd.png"
+hash = "b2817a143ab4eca76d7226cfdd598ba69629786c3fd9ebf1098cb71d554b7872"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/black_saber_hd.png"
+hash = "bbe5edf9bd67563ffbc14bc36600086ca1c985cf762e132ec2b9b5e0a697938f"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/diamond_grand_sword_hd.png"
+hash = "36040db6377a58bd1ba123633dce79b1ce4a5c585c3147d2eecf426be78d61ca"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/diamond_katana_hd.png"
+hash = "dc1da6f05db475489fc9e65cd3709189e66e2f0d2fae628c26e869e592c6dc2e"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/diamond_naginata_hd.png"
+hash = "d72c0a8e0090e794e1b001aa7a459645ce50d8993274a4152d123bbe50f9512a"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/diamond_saber_hd.png"
+hash = "ecebf8ef3da06109167818f12fe0599548ad4226a76348d61e95ba0aa3b863f8"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/iron_grand_sword_hd.png"
+hash = "16a967fef0246e2a95540f4bd0dbc2ed78180fb9b96ab183c2e8642a152f700e"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/iron_katana_hd.png"
+hash = "c8cc188a2af1d12ddad75aba00d89a39027e3d363cd87e882e48b5de8c309106"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/iron_naginata_hd.png"
+hash = "abcd185d0aa17b72efa9fd287578458d7605c50ee6001945c442089a04f32a41"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/iron_saber_hd.png"
+hash = "102f261bd507bbcdcb2bfeee715d613a5cc6cb29cbce379f9d941674faf6f4e2"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/netherite_grand_sword_hd.png"
+hash = "50fa210724f969d9dab0fe9d51f6ae2248e84c6adaad43c01b9b6d88267d58b9"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/netherite_katana_hd.png"
+hash = "2479e135539432eceaa7e6dd0dd17058ebee500086ecb5d18fa06927ca68d6ee"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/netherite_naginata_hd.png"
+hash = "597d654b17caaea74d6cecf1dbbfdd19cbe55ed00ba5d9c8f0b646f387388a79"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/netherite_saber_hd.png"
+hash = "73942c3ba44a9ab14fb516e8b3aaf5a6cac072fbc83657f4792f0c7d3244fa8d"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/seastone_grand_sword_hd.png"
+hash = "8e50d9fc3e45de564dc4dbfe07b022cfdbb5151765eeabda2cf5ebe2d81ecb90"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/seastone_katana_hd.png"
+hash = "f0611ca71c202766c225081becef16ce2f162be902fc0b8819147bd9a6a3dedc"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/seastone_naginata_hd.png"
+hash = "77cd148789ef76d100d22a5462569b0fe3e3733d52afc7485caf4bcf4119cd79"
+
+[[files]]
+file = "kubejs/assets/onepiececombat/textures/item/seastone_saber_hd.png"
+hash = "16e67ad570a682e675baee3d08ca96e43d790c2372fea5a8fc8ffb88068e311d"
 

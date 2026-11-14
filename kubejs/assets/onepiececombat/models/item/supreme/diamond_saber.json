@@ -1,0 +1,99 @@
+{
+  "loader": "neoforge:obj",
+  "model": "onepiececombat:models/item/iron_saber.obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "ambient_occlusion": false,
+  "gui_light": "front",
+  "textures": {
+    "tex": "onepiececombat:item/black_saber_hd",
+    "particle": "onepiececombat:item/black_saber_hd"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        58.62
+      ],
+      "translation": [
+        0.0,
+        0.55,
+        1.75
+      ],
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -58.62
+      ],
+      "translation": [
+        0.0,
+        0.55,
+        1.75
+      ],
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        28.62
+      ],
+      "translation": [
+        1.13,
+        -0.285,
+        1.279
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -28.62
+      ],
+      "translation": [
+        1.13,
+        -0.285,
+        1.279
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        -3.9597979746446663,
+        -3.9597979746446663,
+        0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+}

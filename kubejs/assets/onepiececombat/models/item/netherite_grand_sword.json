@@ -1,0 +1,107 @@
+{
+  "loader": "neoforge:obj",
+  "model": "onepiececombat:models/item/iron_grand_sword.obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "ambient_occlusion": false,
+  "gui_light": "front",
+  "textures": {
+    "tex": "onepiececombat:item/netherite_grand_sword_hd",
+    "particle": "onepiececombat:item/netherite_grand_sword_hd"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        90.0,
+        -82.0,
+        140.41
+      ],
+      "translation": [
+        -0.653,
+        4.649,
+        -0.047
+      ],
+      "scale": [
+        1.65,
+        1.65,
+        1.65
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        90.0,
+        82.0,
+        -140.41
+      ],
+      "translation": [
+        -0.653,
+        4.649,
+        -0.047
+      ],
+      "scale": [
+        1.65,
+        1.65,
+        1.65
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -62.4,
+        -90.0,
+        0.0
+      ],
+      "translation": [
+        1.13,
+        3.333,
+        -0.743
+      ],
+      "scale": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -62.4,
+        90.0,
+        -0.0
+      ],
+      "translation": [
+        1.13,
+        3.333,
+        -0.743
+      ],
+      "scale": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        -2.8284271247461903,
+        -2.8284271247461903,
+        0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "onepiececombat:supreme": 1
+      },
+      "model": "onepiececombat:item/supreme/netherite_grand_sword"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "loader": "neoforge:obj",
+  "model": "onepiececombat:models/item/iron_naginata.obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "ambient_occlusion": false,
+  "gui_light": "front",
+  "textures": {
+    "tex": "onepiececombat:item/diamond_naginata_hd",
+    "particle": "onepiececombat:item/diamond_naginata_hd"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        55
+      ],
+      "translation": [
+        0.0,
+        -1.027,
+        1.65
+      ],
+      "scale": [
+        2.936,
+        2.936,
+        2.936
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -55
+      ],
+      "translation": [
+        0.0,
+        -1.027,
+        1.65
+      ],
+      "scale": [
+        2.936,
+        2.936,
+        2.936
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        1.13,
+        -0.795,
+        -0.197
+      ],
+      "scale": [
+        1.354,
+        1.354,
+        1.354
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -25
+      ],
+      "translation": [
+        1.13,
+        -0.795,
+        -0.197
+      ],
+      "scale": [
+        1.354,
+        1.354,
+        1.354
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        -3.1678383797157332,
+        -3.1678383797157332,
+        0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "onepiececombat:supreme": 1
+      },
+      "model": "onepiececombat:item/supreme/diamond_naginata"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "loader": "neoforge:obj",
+  "model": "onepiececombat:models/item/iron_katana.obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "ambient_occlusion": false,
+  "gui_light": "front",
+  "textures": {
+    "tex": "onepiececombat:item/netherite_katana_hd",
+    "particle": "onepiececombat:item/netherite_katana_hd"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        55
+      ],
+      "translation": [
+        -0.0,
+        6.669,
+        0.294
+      ],
+      "scale": [
+        1.473,
+        1.473,
+        1.473
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -55
+      ],
+      "translation": [
+        -0.0,
+        6.669,
+        0.294
+      ],
+      "scale": [
+        1.473,
+        1.473,
+        1.473
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        1.13,
+        4.578,
+        1.833
+      ],
+      "scale": [
+        1.07,
+        1.07,
+        1.07
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -25
+      ],
+      "translation": [
+        1.13,
+        4.578,
+        1.833
+      ],
+      "scale": [
+        1.07,
+        1.07,
+        1.07
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "onepiececombat:supreme": 1
+      },
+      "model": "onepiececombat:item/supreme/netherite_katana"
+    }
+  ]
+}

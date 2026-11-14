@@ -8,7 +8,6 @@ Minecraft 1.21.1 - NeoForge 21.1.264
 - compatible-progression
 - mech-actors
 - onepiececombat
-- OPC-HD-3D
 - walking-cannons
 
 ## Mods (127)

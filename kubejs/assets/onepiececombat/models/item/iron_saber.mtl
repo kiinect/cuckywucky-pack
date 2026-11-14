@@ -1,0 +1,23 @@
+# Blender 5.2.2 LTS MTL File: 'iron_grand_sword.blend'
+# www.blender.org
+
+newmtl saber_blade
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd #tex
+neoforge_TintIndex 0
+
+newmtl saber_body
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd #tex
