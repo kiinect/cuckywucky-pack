@@ -1,8 +1,8 @@
 name = 'onepiececombat'
-filename = 'onepiececombat-1.0.0.jar'
+filename = 'onepiececombat-1.1.0.jar'
 side = 'both'
 
 [download]
-url = 'https://github.com/kiinect/cuckywucky-pack/releases/download/mods/onepiececombat-1.0.0.jar'
+url = 'https://github.com/kiinect/cuckywucky-pack/releases/download/mods/onepiececombat-1.1.0.jar'
 hash-format = 'sha512'
-hash = '3e3dc5bc14a36e16cf4aef6b2dfddc367aea88ed615cd719318ad4f7ba1c2d5264bea31ccce2736ee4efae15347c7176e496ea93de8b69afcd405c0b6d90a1e8'
+hash = '0ed8985ebc5d621c86c53fc1f17f3c73bce636edf17f16cf27ee8157114f04ce5a2d621a4329401372c2506cc519ba14a5c0e06c517d65ccf95a3844079abfe9'
