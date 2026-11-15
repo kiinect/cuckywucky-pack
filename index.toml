@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/compatible-progression.pw.toml"
-hash = "1c3c30184806ba2083a5a3ca5ad9885c56abeca20b05ee866ee4f01461015225"
+hash = "b8a766d341f01c49371b87e7ba45bb17b6fed3973ad1977f8e18f762a320bdcf"
 metafile = true
 
 [[files]]
