@@ -5,4 +5,4 @@ side = 'both'
 [download]
 url = 'https://github.com/kiinect/cuckywucky-pack/releases/download/mods/compatible-progression-0.1.0.jar'
 hash-format = 'sha512'
-hash = 'aabd23a6241c2bcbf3ffc133d07ffcd8edd34f6de734052aafff7b33d25bf98ed48aa13bcd86d23a4437450cae8427371fdaeceee8adab44697052271c78f00b'
+hash = '30effce9710d52b9ca216324750e2f9ca8f927c627bc8e5eaca39f47dd7e8afece1712cc3228287de04821be979b7b251308bbd9403a4a7e2708aaf0bd7d1831'
